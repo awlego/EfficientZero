@@ -10,3 +10,11 @@ __pycache__/
 # results dir
 /results
 /files
+
+# venvs:
+/env3.8
+
+# ctree:
+core/ctree/build/
+core/ctree/cytree.cpp
+core/ctree/cytree.cpython-38-x86_64-linux-gnu.so
